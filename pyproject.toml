@@ -20,6 +20,8 @@ dependencies = [
     "together>=1.5.8",
 ]
 
+[tool.setuptools]
+packages = ["gemini_hulk"]
 [dependency-groups]
 dev=[
     "ipykernel>=6.29.5",

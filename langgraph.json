@@ -3,5 +3,6 @@
     "graphs":{
         "my_agent": "./gemini_hulk/agent_db.py:gemini_hulk"
     },
-    "env": "./.env"
+    "env": "./.env",
+    "python_version": "3.11"
 }
