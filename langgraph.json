@@ -1,7 +1,7 @@
 {
     "dependencies":["."],
     "graphs":{
-        "my_agent": "./agent.py:gemini_hulk"
+        "my_agent": "./gemini_hulk/agent_db.py:gemini_hulk"
     },
     "env": "./.env"
 }
